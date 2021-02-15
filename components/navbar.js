@@ -10,7 +10,6 @@ export default function NavBar() {
     ">
         <div className="bg-blue-500 bg-opacity-90 flex justify-evenly mx-auto py-3 overflow-hidden rounded-t-lg 
         text-gray-50 text-xs
-        border-2 border-gray-900
         md:text-sm
         lg:flex-col lg:rounded-lg lg:py-0
         lg:bg-gradient-to-b lg:from-blue-600 lg:to-blue-400 
