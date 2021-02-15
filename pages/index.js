@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         </p>
 
       </section>
-      <section className="py-4">
+      <section className="py-4 mb-20">
         <h2 className="font-black text-3xl tracking-tighter py-4">Blog</h2>
         <ul >
           {allPostsData.map(({ id, date, title }) => (
