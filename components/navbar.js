@@ -8,7 +8,7 @@ export default function NavBar() {
     lg:top-60 lg:left-4 lg:w-1/6
     xl:left-10
     ">
-        <div className="bg-blue-500 bg-opacity-90 flex justify-evenly mx-auto py-3 overflow-hidden text-gray-50 text-xs md:text-sm
+        <div className="bg-gradient-to-b from-blue-600 to-blue-400 bg-opacity-90 flex justify-evenly mx-auto py-3 overflow-hidden text-gray-50 text-xs md:text-sm
         lg:flex-col lg:rounded-lg lg:py-8
         " aria-label="quick access">
 
