@@ -31,13 +31,13 @@ Also: some of the services I will recommend are *not* free. I wish I had free al
 
 That said, as someone who's been self-employed in other industries, I can say that web development requires exceptionally low startup costs relative to the return on your investment. If you are willing to part with $50-100 in your first month, you'll be fully equipped to efficiently land deals worth thousands of bucks.
 
-#My Freelancing Workflow - Marketing & Sales
+# My Freelancing Workflow - Marketing & Sales
 
-My freelancing pal [@natmiletic](twitter.com/natmiletic) pointed this out, and I really believe it has been crucial to my early wins: 
+My freelancing pal [@natmiletic](https://twitter.com/natmiletic) pointed this out, and I really believe it has been crucial to my early wins: 
 
 **I have been very intentional about who I am targeting and what's unique about what I offer.**
 
-###Pick a Vertical
+### Pick a Vertical
 
 Your vertical market is the clientele that you will target who all serve similar clients themselves; think gyms, restaurants, plumbers, barber shops. 
 
@@ -61,9 +61,9 @@ Picking a vertical might not be as simple for you as it was for me. Things to co
 
 ...and you should be charging for each of these services in your proposals, commensurate with your experience! More on proposals as we dig deeper.
 
-###Generate Leads
+### Generate Leads
 
-I use [d7leadfinder](d7leadfinder.com) to generate lists of businesses in my vertical from the cities in my region. S/o to [@PaikCapital](twitter.com/PaikCapital) for making me aware of this tool.
+I use [d7leadfinder](https://d7leadfinder.com) to generate lists of businesses in my vertical from the cities in my region. S/o to [@PaikCapital](https://twitter.com/PaikCapital) for making me aware of this tool.
 
 It costs $25/month and can potentially give you more prospects in a single day than you would be able to handle in a year.
 
@@ -201,7 +201,7 @@ Better, right? I think so anyway. Please don't steal this wholesale! But feel fr
 
 Another upgrade coming in my next round: [GMass for Gmail](https://www.gmass.co/). For my first 100 emails I sent each one out individually and it took many hours. For $20/month, GMass will enable me to send potentially thousands of *individualized* emails with a single click, then track open and click-thru rates, and auto-send follow-ups a few days later to those who don't open the first message - all directly through Gmail! I am really excited to use it after doing it the long way first!
 
-###Sell Your Services
+### Sell Your Services
 
 Once you have a few leads who are interested in your services, you need to set up a phone call with them to determine if the project is a good fit, explain how the process works, and answer any questions they have.
 
@@ -237,7 +237,7 @@ If the client forces the price question, you need to deflect by any means necess
 
 By the end of this call, you should have a clear understanding of what the client is looking for. If you're a solid salesperson, they should be excited to receive an email proposal from you after the call, outlining the scope of the work and the fees for each service you provide.
 
-###Write a Proposal
+### Write a Proposal
 
 This part is possibly even more terrifying than the sales call, because at this point you feel like you're on the right track but now you actually have something to lose - a warm lead who's going to be turned off by your price!
 
@@ -288,7 +288,7 @@ This format seemed to work fine for me, but next time around I plan to bill for 
 
 How the heck did I arrive at these rates?
 
-####Set Your Price
+#### Set Your Price
 
 The reason it's so hard to find concrete advice about how to set your rates is that *it's mostly up to you to decide how to do it.* There is no secret formula, and what the market can bear will vary wildly between industries, demographics, regions, and continents.
 
@@ -304,11 +304,11 @@ But I would be perfectly happy with $50/hr, and this target range gave me a lot 
 
 My first project clocked in at about $75/hr, so I feel really good about this pricing strategy going into my next round of sales.
 
-###Sign a Contract
+### Sign a Contract
 
 Before you fire up Figma or write a single line of code, *you need both parties to sign a contract that clearly lays out the scope of work and what happens if either party fails to meet their obligations.*
 
-[Leon Noel](www.leonnoel.com) recommends the [Stuff & Nonsense Contract Killer](https://stuffandnonsense.co.uk/projects/contract-killer) open-source contract, and while I appreciate the framework, the cheeky British humor doesn't really jive with my style.
+[Leon Noel](https://www.leonnoel.com) recommends the [Stuff & Nonsense Contract Killer](https://stuffandnonsense.co.uk/projects/contract-killer) open-source contract, and while I appreciate the framework, the cheeky British humor doesn't really jive with my style.
 
 So I revised that contract for American English and [posted it to my Github here](https://github.com/samuelsycamore/contract-killer) - please feel free to use it if it's helpful to you!
 
@@ -316,7 +316,7 @@ So I revised that contract for American English and [posted it to my Github here
 
 I insert the relevant details into this template and upload it to HelloSign.com, which enables you and your client to register legally binding e-signatures online - no need for paper documents or faxing. This service is free for the first few, but you have to pay after you reach a certain number of contracts per month.
 
-####Determine a Payment Schedule
+#### Determine a Payment Schedule
 
 One key element of the contract is the payment schedule, which should clearly define how much your client owes you and when. I've tried two different schedules, and one has immediately emerged as the clear winner:
 
@@ -326,19 +326,19 @@ One key element of the contract is the payment schedule, which should clearly de
 
 I repeat:
 
-##**DO NOT WORK FOR FREE**
+## **DO NOT WORK FOR FREE**
 
 You must have a down payment in hand before you start the work. And you need to be paid in full before your completed site is deployed to the host. This is to prevent a bad-faith client from taking your work and using it without paying you.
 
 And you need to make this payment schedule crystal clear to your client. If not, there's a good chance that this could lead to headaches when you send an invoice that your client isn't expecting.
 
-###Receive Payments
+### Receive Payments
 
 I currently use Stripe.com to receive payments from my clients. I like that it enables me to send out professional invoices that my clients can pay using any payment method that works for them. I don't love that it takes a 3% cut off the top. If you know a better solution, I'd love to hear about it.
 
 I request payment within 7 days of sending out the invoice. So far my clients have paid within the day every time, perhaps because I alerted them to the fact that the invoice would be on its way, and that it needed to be paid in order for me to continue with the work.
 
-##Now Get to Work!
+## Now Get to Work!
 
 And there ya go, that's essentially everything that I know about the process of finding cold prospects, pitching my services, landing deals, and securing payments.
 

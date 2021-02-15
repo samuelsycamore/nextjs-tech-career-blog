@@ -1,7 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from './layout.module.css'
-import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Sam Sycamore'
@@ -9,9 +7,12 @@ export const siteTitle = 'Sam Sycamore - Software Engineer'
 
 export default function Layout({ children, home }) {
   return (
-    <div className={styles.container}>
+    <div className="container max-w-2xl  
+    flex flex-col justify-center items-center 
+    p-4 mx-auto 
+    text-xl antialiased">
       <Head>
-        
+        <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
           content="Sam Sycamore is a software engineer who writes about web development, freelancing, and careers in tech."
@@ -20,18 +21,18 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
-      <header className={styles.header}>
+      <header className="flex flex-col justify-center items-center my-4">
         {home ? (
           <>
             <Image
               priority
               src="/images/sam-turtle.jpg"
-              className={utilStyles.borderCircle}
-              height={144}
-              width={144}
+              className="rounded-full"
+              height={150}
+              width={150}
               alt={name}
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className="text-5xl tracking-tighter font-black my-4">{name}</h1>
           </>
         ) : (
           <>
@@ -40,16 +41,16 @@ export default function Layout({ children, home }) {
                 <Image
                   priority
                   src="/images/sam-turtle.jpg"
-                  className={utilStyles.borderCircle}
+                  className="rounded-full"
                   height={108}
                   width={108}
                   alt={name}
                 />
               </a>
             </Link>
-            <h2 className={utilStyles.headingLg}>
+            <h2 className="text-2xl tracking-tighter font-black my-4">
               <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
+                <a>{name}</a>
               </Link>
             </h2>
           </>
@@ -57,9 +58,9 @@ export default function Layout({ children, home }) {
       </header>
       <main>{children}</main>
       {!home && (
-        <div className={styles.backToHome}>
+        <div>
           <Link href="/">
-            <a>← Back to home</a>
+            <a className="text-blue-500 hover:underline">← Back to home</a>
           </Link>
         </div>
       )}

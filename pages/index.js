@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Layout, { siteTitle } from '../components/layout'
-import utilStyles from '../styles/utils.module.css'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
@@ -11,26 +10,26 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section className="py-4">
         <p>
-          Software engineer in Santa Cruz, California.
+          Software engineer in Santa Cruz, CA. Easily excited by new tech.
         </p>
 
         <p>
-        Easily excited by new tech. Ask me about identifying common edible wild plants.
+        Ask me how to identify common edible wild plants.
         </p>
 
       </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
+      <section className="py-4">
+        <h2 className="font-black text-3xl tracking-tighter py-4">Blog</h2>
+        <ul >
           {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
+            <li className="py-2" key={id}>
               <Link href={`/posts/${id}`}>
-                <a>{title}</a>
+                <a className="text-blue-500 hover:underline">{title}</a>
               </Link>
               <br />
-              <small className={utilStyles.lightText}>
+              <small className="text-gray-500 tracking-tight">
                 <Date dateString={date} />
               </small>
             </li>
