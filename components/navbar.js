@@ -3,46 +3,58 @@ import Link from 'next/link'
 
 export default function NavBar() {
   return (
-    <div className="fixed z-50 top-100 bottom-0 w-full md:left-1/2 transform md:-translate-x-1/2">
-        <div className="bg-blue-500 bg-opacity-90 flex justify-evenly mx-auto py-3 overflow-hidden text-gray-50" aria-label="quick access">
+    <div className="fixed z-50 
+    top-100 bottom-0 w-full 
+    lg:top-60 lg:left-4 lg:w-1/6
+    xl:left-10
+    ">
+        <div className="bg-blue-500 bg-opacity-90 flex justify-evenly mx-auto py-3 overflow-hidden text-gray-50 text-xs md:text-sm
+        lg:flex-col lg:rounded-lg lg:py-8
+        " aria-label="quick access">
 
         <Link href="/">
-          <a className="relative text-inverted text-center hover:text-yellow-300" title="Home">
+          <a className="relative text-inverted text-center hover:text-gray-900
+          lg:block lg:py-4" title="Home">
           <Image
-              src="/images/document-outline.svg"
-              height={25}
-              width={25}
+              src="/images/home-outline.svg"
+              height={20}
+              width={20}
               alt="icon"
             />
-            <span className="block text-xs md:text-lg">Blog</span></a>
+            <span className="block">Home</span></a>
           </Link>
 
-          <a className="relative text-inverted text-center hover:text-yellow-300" title="Portfolio" href="#portfolio">
-          <Image
-              src="/images/mail-outline.svg"
-              height={25}
-              width={25}
-              alt="icon"
-            />
-            <span className="block text-xs md:text-lg">Contact</span></a>
+          <Link href="/contact">
+            <a className="relative text-inverted text-center hover:text-gray-900
+          lg:block lg:py-4" title="Contact">
+            <Image
+                src="/images/mail-outline.svg"
+                height={20}
+                width={20}
+                alt="icon"
+              />
+              <span className="block">Contact</span></a>
+            </Link>
 
-          <a className="relative text-inverted text-center hover:text-yellow-300" title="About" href="#about">
+          <a className="relative text-inverted text-center hover:text-gray-900
+          lg:block lg:py-4" title="LinkedIn" href="https://www.linkedin.com/in/samuelsycamore">
           <Image
               src="/images/logo-linkedin.svg"
-              height={25}
-              width={25}
+              height={20}
+              width={20}
               alt="icon"
             />
-            <span className="block text-xs md:text-lg">LinkedIn</span></a>
+            <span className="block">LinkedIn</span></a>
 
-          <a className="relative text-inverted text-center hover:text-yellow-300" title="Contact" href="#contact">
+          <a className="relative text-inverted text-center hover:text-gray-900
+          lg:block lg:py-4" title="GitHub" href="https://www.github.com/samuelsycamore" target="_blank">
           <Image
               src="/images/logo-github.svg"
-              height={25}
-              width={25}
+              height={20}
+              width={20}
               alt="icon"
             />
-            <span className="block text-xs md:text-lg">GitHub</span></a>
+            <span className="block">GitHub</span></a>
 
         </div>
 

@@ -10,7 +10,7 @@ export default function Layout({ children, home }) {
   return (
     <div>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
         <meta
           name="description"
           content="Sam Sycamore is a software engineer who writes about web development, freelancing, and careers in tech."
