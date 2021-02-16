@@ -12,26 +12,26 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className="py-4">
         <p>
-          Software engineer in Santa Cruz, CA. Easily excited by new tech.
-        </p>
+          Software engineer in Santa Cruz, CA. Easily excited by new tech. Ask me how to identify common edible wild plants.
 
-        <p>
-        Ask me how to identify common edible wild plants.
         </p>
 
       </section>
-      <section className="py-4 mb-20">
-        <h2 className="font-black text-3xl tracking-tighter py-4">Blog</h2>
-        <ul >
+
+
+  
+      <section className="py-4 mb-20 px-5 my-5 rounded-xl shadow-lg  border-b border-gray-300">
+        <h2 className="font-black tracking-tighter py-4">Blog</h2>
+        <ul>
           {allPostsData.map(({ id, date, title }) => (
-            <li className="py-2" key={id}>
+            <li className="py-2 mb-5 border-b-2 border-gray-200" key={id}>
               <Link href={`/posts/${id}`}>
                 <a className="text-blue-500 hover:underline">{title}</a>
               </Link>
               <br />
-              <small className="text-gray-500 tracking-tight">
+              <span className="text-gray-500 italic font-light text-lg">
                 <Date dateString={date} />
-              </small>
+              </span>
             </li>
           ))}
         </ul>

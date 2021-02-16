@@ -21,7 +21,6 @@ export default function About({  }) {
         <div className="flex flex-col justify-center items-center my-4">
            <Image
               src="/images/sycamore.jpg"
-              className="rounded-md"
               height={554}
               width={640}
               alt="Sam Sycamore"
@@ -43,7 +42,6 @@ export default function About({  }) {
         <div className="flex flex-col justify-center items-center my-4">
            <Image
               src="/images/truck-desert.jpg"
-              className="rounded-md"
               height={440}
               width={640}
               alt="My truck in the desert"

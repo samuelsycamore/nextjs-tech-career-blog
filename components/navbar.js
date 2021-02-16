@@ -18,14 +18,14 @@ export default function NavBar() {
         <Link href="/">
           <a className="relative text-inverted text-center hover:text-gray-900
           lg:block lg:py-4 lg:border-b-2
-          lg:hover:bg-blue-400" title="Home">
+          lg:hover:bg-blue-400" title="Blog - Home">
           <Image
               src="/images/home-outline.svg"
               height={20}
               width={20}
               alt="icon"
             />
-            <span className="block">Home</span></a>
+            <span className="block">Blog</span></a>
           </Link>
 
           <Link href="/portfolio">

@@ -19,7 +19,7 @@ export default function Contact({  }) {
         </p>
 
         <p>
-        Looking to hire me for freelance web development? Check out <a className="text-blue-500 hover:underline" href="https://www.sycamore.design">sycamore.design</a>.
+        Looking to hire a freelance web developer? Check out <a className="text-blue-500 hover:underline" href="https://www.sycamore.design">sycamore.design</a>.
         </p>
 
       </section>
