@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 export default function PortfolioCard(props) {
   return (
-    <div className="px-5 py-1 my-5 rounded-xl shadow-lg  border-b border-gray-300">
+    <div className="px-5 py-1 my-10 rounded-xl shadow-lg  border-b border-gray-300">
       <h3 className="py-3">{props.projectName}</h3>
       <div className="flex flex-col justify-center items-center mt-2 mb-4 rounded-xl border border-gray-200">
            <Image

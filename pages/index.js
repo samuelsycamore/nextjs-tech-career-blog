@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className="py-4">
         <p>
-          Software engineer in Santa Cruz, CA. Easily excited by new tech. Ask me how to identify common edible wild plants.
+          Software engineer in Santa Cruz, CA. Easily excited by new tech. Ask me about how to identify common edible wild plants.
 
         </p>
 
