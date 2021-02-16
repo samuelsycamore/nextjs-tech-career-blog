@@ -41,17 +41,17 @@ export default function NavBar() {
               <span className="block">Portfolio</span></a>
             </Link>
 
-            <Link href="/resume">
+            <Link href="/about">
             <a className="relative text-inverted text-center hover:text-gray-900
           lg:block lg:py-4 lg:border-b-2
-          lg:hover:bg-blue-400" title="Resume">
+          lg:hover:bg-blue-400" title="About">
             <Image
-                src="/images/document-outline.svg"
+                src="/images/sun-outline.svg"
                 height={20}
                 width={20}
                 alt="icon"
               />
-              <span className="block">Resume</span></a>
+              <span className="block">About</span></a>
             </Link>
 
           <Link href="/contact">
