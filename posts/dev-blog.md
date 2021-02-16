@@ -24,7 +24,6 @@ desc: "Diving into the Jamstack and headless CMS options with NextJS."
   * React
   * Tailwind
   * Markdown
-  * Forestry CMS
 
   ## Details:
 
