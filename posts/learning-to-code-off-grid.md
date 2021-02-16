@@ -3,6 +3,15 @@ title: "Learning to code in an off-grid cabin in the woods"
 date: "2020-12-05"
 ---
 
+<div>
+           <Image
+              src="/images/cabin.jpg"
+              height={554}
+              width={640}
+              alt="Cabin in the woods"
+            />
+</div>
+
 My alarm sounds. It’s 4:00 AM. 
 
 The dappled moonlight casts shadows on my wool blankets, shining through my windows between the redwoods and tanoaks that surround my off-grid cabin, precariously perched on the side of a steep slope in the Santa Cruz Mountains of California’s central coast.
@@ -27,6 +36,15 @@ If I’m lucky and especially focused, I can cram two hours of studying into the
 
 As the sun begins to rise I take my dog out and we walk down the side of the mountain together, down to the creek where he likes to drink the ice-cold water, and often can’t resist laying down and fully submerging himself for a quick dip, no matter how cold it is outside. Hey, if it makes you happy...
 
+<div>
+           <Image
+              src="/images/redwoods.jpg"
+              height={554}
+              width={640}
+              alt="Redwood trees"
+            />
+</div>
+
 I haul my solar battery bank up to the clearing at the top of the hill, where my two portable solar panels are staged and ready for business when the sun finally manages to peek above the hillside later in the morning.
 
 When 8:00 arrives it’s time for me to drive down to town and clock into my day-job as a landscaper. I build fences, retaining walls, patios, pathways, raised bed gardens, and irrigation systems for backyard gardens and orchards. I dig a lot of holes and trenches, and I rearrange many literal tons of gravel and soil most days.
@@ -46,3 +64,5 @@ And she will reassure me that I have what it takes, that I possess the self-disc
 I am often too mentally and physically drained to invest more than an hour into studying at night, and it’s rare for me to stay awake past 9:00 PM on weekdays.
 
 The moon begins to rise above the tree line as I crawl back under my wool blankets for the night. I set my alarm for 4:00 AM, and I swear to myself that tomorrow morning, I’m not going to snooze.
+
+*This piece was originally published on DEV.to. <a href="https://dev.to/tanoaksam/learning-to-code-in-an-off-grid-cabin-in-the-woods-592l" target="_blank">Click here</a> to visit and drop a comment.*

@@ -51,7 +51,7 @@ export default function Layout({ children, home }) {
                 />
               </a>
             </Link>
-            <h2 className="text-2xl tracking-tighter font-black my-4">
+            <h2 className="text-2xl tracking-tighter font-black my-4 reset-py">
               <Link href="/">
                 <a>{name}</a>
               </Link>

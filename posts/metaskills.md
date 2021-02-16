@@ -3,6 +3,15 @@ title: "The toolbox of meta-skills I acquired as a jack-of-all-trades"
 date: "2021-01-23"
 ---
 
+<div>
+           <Image
+              src="/images/yard-fence.jpg"
+              height={554}
+              width={640}
+              alt="Front yard garden carpentry"
+            />
+</div>
+
 In late 2014, I decided once and for all that it was time to put my money where my mouth was and begin acquiring the skills I'd need to build my own house and grow my own food.
 
 I had become fascinated with the idea of self-reliance a few years earlier in college. I'd stumbled upon a book called [*The Good Life* by Scott and Helen Nearing](https://www.amazon.com/Good-Life-Nearings-Self-Sufficient-Living/dp/0805209700), intrepid pioneers of the back-to-the-land movement from the Depression Era who convinced me that their way of life *must* be preferable to the suburban malaise of middle-America that I'd inherited.
@@ -26,7 +35,7 @@ I understand why a conventional team of computer science-oriented engineers woul
 If you'll indulge me, I'd love to show off and describe a few of these to you.
 
 
-##How to Learn
+## How to Learn
 
 *Everyone* learns best by *doing*. Full stop.
 
@@ -36,7 +45,7 @@ I don't think I've ever watched a tutorial video on a power tool I've never used
 
 I could watch my foreman operate that reciprocating saw all day, but the only way I'm going to master it is if I pick it up and do it myself.
 
-###Get Paid to Learn
+### Get Paid to Learn
 
 There's a time and a place to pay for resources to learn. Ideally, that time is when you are already employed or self-employed and can write off your continuing education as an expense on your taxes.
 
@@ -52,7 +61,7 @@ That's because I knew that I would learn faster and more efficiently if I had *r
 
 Now that I have a little bit of money coming in from development work, I can afford to invest some of those funds back into my self-education. And now that I have real projects, I also have concrete learning goals that I can focus on so I'll be able to take on more and bigger projects in the future.
 
-##How to Solve Problems
+## How to Solve Problems
 
 Problem-solving requires systems thinking. 
 
@@ -64,7 +73,7 @@ When I'm working on a team, I tend to be the most detail-oriented, but I love ob
 
 A strong problem-solver is someone who's skilled in the art of the analogy: observing a novel situation and recognizing familiar elements from prior experiences that are ostensibly unrelated. This is pattern recognition, but abstracted.
 
-##How to Communicate Effectively
+## How to Communicate Effectively
 
 I worked several retail jobs as a young adult, and these experiences made me allergic to "customer service" and "sales" for many years. 
 
@@ -80,7 +89,7 @@ Shocker, I know!
 
 I was surprised, too. ;)
 
-###Communicating with Clients
+### Communicating with Clients
 
 It's a cliché that the best communicators are the strongest listeners, and this bears out quite directly when communicating with clients.
 
@@ -98,7 +107,7 @@ And what can you do to really "wow" them so that they will want to hire you agai
 
 Communicating effectively with clients means listening so well that you can anticipate their needs and assuage their fears before they ever arise. That's how you build trust.
 
-###Communicating with Coworkers
+### Communicating with Coworkers
 
 When I'm working on a team, I prefer to be like water. I follow the path of least resistance and always aim to find common ground and keep the mood pleasant and easygoing. Relax, and float downstream.
 
@@ -108,7 +117,7 @@ Maintaining a strong company culture means cultivating an ethos that "we're all 
 
 We learn how strong our teams really are when conflicts arise. This is how our company culture gets stress-tested. If turnover is high, that's a good indication that crew morale is low. And if morale is low, it's probably because a) the workload is too heavy or unevenly distributed, b) the pay is too low, and/or c) the management is unreasonable.
 
-###Communicating with Management
+### Communicating with Management
 
 If you asked my girlfriend to describe me in a nutshell, she'd probably say something like "loves being outdoors, hates being told what to do."
 
@@ -124,7 +133,7 @@ When I'm going through the application process with a new company, one of the mo
 
 You will learn just about everything you need to know about their company culture based on how they answer this question.
 
-##How to Manage Time and Resources
+## How to Manage Time and Resources
 
 Construction gigs can be pretty open-ended. Especially when it comes to remodeling, you don't always know what you're getting into before you demolish the wall or tear up the carpet and see what's waiting on the other side. 
 
@@ -166,7 +175,7 @@ Furthermore, what *is* the value of your product to your client? If you're build
 
 What your product or service is *worth* is more about its *perceived value* than the actual cost of delivering it. But I digress, that is a whole huge topic unto itself...
 
-##How to Be Confident in My Skills
+## How to Be Confident in My Skills
 
 As I ventured further down the path of becoming a jack-of-all-trades, I became quite good at selling myself to prospective employers. I discovered that this sales pitch really wasn't so different from a customer-facing pitch. The same basic rules applied.
 
@@ -179,3 +188,5 @@ This is by far the most valuable asset that I picked up as a tradesman:
 the confidence to be able to sign on to a new project, knowing that I will encounter novel obstacles, and to trust that even if I've never seen anything like it before -- 
 
 I *will* figure it out.
+
+*This piece was originally published on DEV.to. <a href="https://dev.to/tanoaksam/the-toolbox-of-meta-skills-i-acquired-as-a-jack-of-all-trades-bfp" target="_blank">Click here</a> to visit and drop a comment.*

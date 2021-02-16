@@ -3,6 +3,15 @@ title: "My freelancing workflow, from cold leads to paid invoices"
 date: "2021-01-31"
 ---
 
+<div>
+           <Image
+              src="/images/cabin-room.jpg"
+              height={554}
+              width={640}
+              alt="My home office"
+            />
+</div>
+
 In January 2021, I made a sudden and somewhat unexpected transition to freelance web development.
 
 I had been headed in this direction since I started learning web dev in the fall of 2020, but an unforeseeable injury forced me to resign from my job in landscape construction at the start of the new year. I wasn't sure if I was ready to seek work as a developer, but the universe said:
@@ -31,7 +40,7 @@ Also: some of the services I will recommend are *not* free. I wish I had free al
 
 That said, as someone who's been self-employed in other industries, I can say that web development requires exceptionally low startup costs relative to the return on your investment. If you are willing to part with $50-100 in your first month, you'll be fully equipped to efficiently land deals worth thousands of bucks.
 
-# My Freelancing Workflow - Marketing & Sales
+## My Freelancing Workflow - Marketing & Sales
 
 My freelancing pal [@natmiletic](https://twitter.com/natmiletic) pointed this out, and I really believe it has been crucial to my early wins: 
 
@@ -345,3 +354,5 @@ And there ya go, that's essentially everything that I know about the process of 
 I sincerely hope you find this helpful. If you have a question that isn't answered in here somewhere, then I probably don't have a good answer to offer, honestly!
 
 Best of luck to you! Let me know how you fare out there - we can trade notes.
+
+*This piece was originally published on DEV.to. <a href="https://dev.to/tanoaksam/my-freelancing-workflow-from-cold-leads-to-paid-invoices-38hd" target="_blank">Click here</a> to visit and drop a comment.*

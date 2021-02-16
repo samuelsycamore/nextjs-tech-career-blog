@@ -3,9 +3,16 @@ title: "My networking strategy for making meaningful connections in tech"
 date: "2021-01-17"
 ---
 
-Several classmates of mine from Leon Noel's [100 Devs Full-Stack Bootcamp](https://leonnoel.com/100devs/) have reached out for networking advice, so I'd like to share what's been working for me over the last few months.
+<div>
+           <Image
+              src="/images/redwood-view.jpg"
+              height={554}
+              width={640}
+              alt="The Santa Cruz Mountains"
+            />
+</div>
 
-*(Who am I? Just a thirtysomething dude who got burned out with his career in trades and decided to change course to web development. I started learning in September 2020 and as of January 2021 I have begun freelancing as a designer and developer.)*
+Several peers of mine from [100 Devs](https://leonnoel.com/100devs/) have reached out for networking advice, so I'd like to share what's been working for me over the last few months.
 
 I want to stress that *I am not an expert* and have honestly just been trying to push myself to go above and beyond what [Leon](https://www.leonnoel.com/) has been advising us to do. 
 
@@ -59,3 +66,5 @@ But the people I make the most meaningful connections with are the people who th
 If I wasn’t open and authentic about the kind of person I am, I would never be able to forge more than superficial connections.
 
 I hope this helps! No magic formulas, just some things I’ve learned on this journey so far. Best of luck to y’all.
+
+*This piece was originally published on DEV.to. <a href="https://dev.to/tanoaksam/my-networking-strategy-for-making-meaningful-connections-in-tech-1702" target="_blank">Click here</a> to visit and drop a comment.*
