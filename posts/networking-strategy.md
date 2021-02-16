@@ -1,6 +1,7 @@
 ---
 title: "My networking strategy for making meaningful connections in tech"
 date: "2021-01-17"
+desc: "Here's how I approach the mortifying and awkward process of networking, which turns out to just be a fun way to make new friends."
 ---
 
 <div>

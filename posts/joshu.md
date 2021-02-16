@@ -1,6 +1,7 @@
 ---
 title: "Project case study: converting vanilla JS to React"
 date: "2021-02-10"
+desc: "Exploring the process of translating my Zen koan app's JavaScript into React JSX."
 ---
 
   <div>

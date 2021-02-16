@@ -1,6 +1,7 @@
 ---
 title: "Project case study: pitching web development services to local business owners"
 date: "2021-01-25"
+desc: "Reviewing the process of designing and developing my freelance website."
 ---
 
   <div>

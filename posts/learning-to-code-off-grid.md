@@ -1,6 +1,7 @@
 ---
 title: "Learning to code in an off-grid cabin in the woods"
 date: "2020-12-05"
+desc: "A day in the life of a wannabe programmer who just happens to live with no running water or electricity."
 ---
 
 <div>

@@ -1,6 +1,7 @@
 ---
 title: "Project case study: exploring the bleeding edge of modern web dev"
 date: "2021-02-14"
+desc: "Diving into the Jamstack and headless CMS options with NextJS."
 ---
 
   <div>
@@ -23,6 +24,7 @@ date: "2021-02-14"
   * React
   * Tailwind
   * Markdown
+  * Forestry CMS
 
   ## Details:
 

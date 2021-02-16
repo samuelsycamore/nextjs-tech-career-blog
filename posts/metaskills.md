@@ -1,6 +1,7 @@
 ---
 title: "The toolbox of meta-skills I acquired as a jack-of-all-trades"
 date: "2021-01-23"
+desc: "Reflecting on the higher-order skill set that I developed in my previous career in home remodeling and construction."
 ---
 
 <div>

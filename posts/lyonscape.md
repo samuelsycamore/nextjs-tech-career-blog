@@ -1,6 +1,7 @@
 ---
 title: "Project case study: lessons learned in my first freelancing gig"
 date: "2021-01-13"
+desc: "Reflecting on what I learned in the process of working with my first web development client."
 ---
 
   <div>

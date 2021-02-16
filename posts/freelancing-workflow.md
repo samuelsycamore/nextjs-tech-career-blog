@@ -1,6 +1,7 @@
 ---
 title: "My freelancing workflow, from cold leads to paid invoices"
 date: "2021-01-31"
+desc: "Everything I've learned about how to get started as a freelance web developer."
 ---
 
 <div>
