@@ -14,7 +14,7 @@ export default function Portfolio({  }) {
         <PortfolioCard 
           projectName="Joshu's Zen Koans" 
           screenshot="/images/jzk-desktop.png"
-          liveLink="https://www.joshus-zen-koans.netlify.app" 
+          liveLink="https://joshus-zen-koans.netlify.app" 
           codeLink="https://www.github.com/samuelsycamore/joshu-zen-koans-react" 
           caseStudy="/posts/joshu"
           builtWith="React, Tailwind"
