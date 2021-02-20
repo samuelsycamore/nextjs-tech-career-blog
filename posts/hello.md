@@ -1,6 +1,6 @@
 ---
-title: hello
-date: 2021-02-18T08:00:00Z
+title: "hello"
+date: "2021-02-18"
 
 ---
 is this thing on?
