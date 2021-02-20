@@ -28,3 +28,5 @@ Establish a home for my tech blog and developer portfolio while exploring the cu
 ## Details:
 
 ![](/uploads/img_0658.jpg)this photo was inserted with Forestry to see what that's like
+
+and now I'm adding some text to make sure I can do that
