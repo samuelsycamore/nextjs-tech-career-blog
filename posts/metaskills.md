@@ -5,12 +5,12 @@ desc: "Reflecting on the higher-order skill set that I developed in my previous 
 ---
 
 <div>
-           <Image
-              src="/images/yard-fence.jpg"
-              height={554}
-              width={640}
-              alt="Front yard garden carpentry"
-            />
+  <Image
+    src="/images/yard-fence.jpg"
+    height={554}
+    width={640}
+    alt="Front yard garden carpentry"
+  />
 </div>
 
 In late 2014, I decided once and for all that it was time to put my money where my mouth was and begin acquiring the skills I'd need to build my own house and grow my own food.

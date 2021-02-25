@@ -19,9 +19,9 @@ export default function PortfolioCard(props) {
         <span className="block italic font-light text-gray-500 py-2">{props.builtWith}</span>
         <p className="border-b-2 border-gray-200">{props.description}</p>
         <ul className="list-disc list-inside mb-5 text-blue-500 p-5">
-          <li><a href={props.caseStudy}>Read Case Study</a></li>
-          <li><a href={props.liveLink} target="_blank">View Live Site</a></li>
-          <li><a href={props.codeLink} target="_blank">View GitHub Repository</a></li>
+          <li><a href={props.caseStudy}>More Details</a></li>
+          <li><a href={props.liveLink} target="_blank">Live Site</a></li>
+          <li><a href={props.codeLink} target="_blank">GitHub Repository</a></li>
         </ul>
           
 

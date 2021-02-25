@@ -1,7 +1,7 @@
 ---
-title: 'Project case study: exploring the bleeding edge of modern web dev'
-date: 2021-02-14
-desc: Diving into the Jamstack and headless CMS options with NextJS.
+title: "Project Overview: SamuelSycamore.com"
+date: "2021-02-14"
+desc: "Developer portfolio and career/tech blog built with Next.js."
 
 ---
 <div>
@@ -10,7 +10,7 @@ src="../images/ss-desktop.png"
 className="rounded-xl"
 height={355}
 width={640}
-alt="Joshu's Zen Koans Screenshot"
+alt="Dev Portfolio Screenshot"
 />
 </div>
 
@@ -24,9 +24,3 @@ Establish a home for my tech blog and developer portfolio while exploring the cu
 * React
 * Tailwind
 * Markdown
-
-## Details:
-
-![](/uploads/img_0658.jpg)this photo was inserted with Forestry to see what that's like
-
-and now I'm adding some text to make sure I can do that

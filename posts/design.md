@@ -1,7 +1,7 @@
 ---
-title: "Project case study: pitching web development services to local business owners"
+title: "Project Overview: Sycamore Design"
 date: "2021-01-25"
-desc: "Reviewing the process of designing and developing my freelance website."
+desc: "Professional freelancing website for pitching my web development services to prospective clients."
 ---
 
   <div>
@@ -14,14 +14,10 @@ desc: "Reviewing the process of designing and developing my freelance website."
     />
   </div>
 
-   ## Project Overview:
+  ## Project Overview:
 
-  Pitch freelance web design and development service to small business owners in my region.
+  My professional freelancing website for pitching my services to prospective clients.
 
   ## Built With:
 
   * Tailwind
-
-  ## Details:
-
-  Coming soon.

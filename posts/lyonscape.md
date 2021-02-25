@@ -1,7 +1,7 @@
 ---
-title: "Project case study: lessons learned in my first freelancing gig"
+title: "Project Overview: Lyonscape"
 date: "2021-01-13"
-desc: "Reflecting on what I learned in the process of working with my first web development client."
+desc: "Local landscaping business in need of a website that meets modern standards for style and accessibility."
 ---
 
   <div>
@@ -16,13 +16,9 @@ desc: "Reflecting on what I learned in the process of working with my first web 
 
   ## Project Overview:
 
-  Build new website for local business to bring company's online presence up to date with modern standards.
+  New website for local landscaping business, bringing the company's online presence up to date with modern standards for style, accessibility, and SEO. 
 
   ## Built With:
 
   * Bootstrap
   * jQuery
-
-  ## Details:
-
-  Coming soon.
