@@ -4,21 +4,22 @@ date: "2021-01-13"
 desc: "Local landscaping business in need of a website that meets modern standards for style and accessibility."
 ---
 
-  <div>
+<div>
+  <a href="https://www.lyonscape.com" target="_blank">
     <Image
       src="../images/ls-desktop.png"
-      className="rounded-xl"
       height={355}
       width={640}
       alt="Lyonscape Screenshot"
     />
-  </div>
+  </a>
+</div>
 
-  ## Project Overview:
+## Project Overview:
 
-  New website for local landscaping business, bringing the company's online presence up to date with modern standards for style, accessibility, and SEO. 
+New website for local landscaping business, bringing the company's online presence up to date with modern standards for style, accessibility, and SEO. 
 
-  ## Built With:
+## Built With:
 
-  * Bootstrap
-  * jQuery
+* Bootstrap
+* jQuery

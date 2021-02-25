@@ -4,20 +4,21 @@ date: "2021-01-25"
 desc: "Professional freelancing website for pitching my web development services to prospective clients."
 ---
 
-  <div>
+<div>
+  <a href="https://www.sycamore.design" target="_blank">
     <Image
       src="../images/sd-desktop.png"
-      className="rounded-xl"
       height={355}
       width={640}
       alt="Sycamore Design Screenshot"
     />
-  </div>
+  </a>
+</div>
 
-  ## Project Overview:
+## Project Overview:
 
-  My professional freelancing website for pitching my services to prospective clients.
+My professional freelancing website for pitching my services to prospective clients.
 
-  ## Built With:
+## Built With:
 
-  * Tailwind
+* Tailwind
