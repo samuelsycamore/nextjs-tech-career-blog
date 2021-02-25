@@ -4,7 +4,6 @@ import Layout, { siteTitle } from '../components/layout'
 
 
 export default function About({  }) {
-  const newLocal = 555
   return (
     <Layout>
       <Head>
@@ -36,7 +35,7 @@ export default function About({  }) {
         </p>
 
         <p>
-        Beyond coding and writing, I'm an avid gardener and hobby carpenter. What do these things all have in common? In order to excel, you have to be a lifelong learner with a sharp eye for details.
+        Beyond coding and writing, I'm an avid gardener, musician, and carpenter. What do these things all have in common? In order to excel, you have to be a lifelong learner with a sharp eye for details.
         </p>
 
         <div className="flex flex-col justify-center items-center my-4">
